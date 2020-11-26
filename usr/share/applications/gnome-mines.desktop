@@ -1,0 +1,26 @@
+[Desktop Entry]
+Name=Mines
+Name[bo_CN]=འབར་མདེལ།
+Comment=Clear hidden mines from a minefield
+Comment=མདེལ་ཁུལ་ནས་གསང་བའི་འབར་མདེལ་མེད་པར་བཟོ་བ།
+Exec=gnome-mines
+Icon=gnome-mines
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Game;LogicGame;
+Keywords=minesweeper;
+StartupNotify=true
+Actions=Small;Medium;Big;
+X-Ubuntu-Gettext-Domain=gnome-mines
+
+[Desktop Action Small]
+Name=Small board
+Exec=gnome-mines --small
+
+[Desktop Action Medium]
+Name=Medium board
+Exec=gnome-mines --medium
+
+[Desktop Action Big]
+Name=Big board
+Exec=gnome-mines --big

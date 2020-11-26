@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment=Uninstall WPS Office
+Comment[bo_CN]=WPS Officeབཤིག་འདོན།
+Comment[zh_CN]=卸载WPS Office
+Exec=/usr/bin/wps_xterm
+GenericName=WPS Uninstall
+GenericName[zh_CN]=卸载
+Name=WPS Uninstall
+Name=WPS བཤིག་འདོན།
+Name[zh_CN]=卸载
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=Uninstall;Qt;
+Icon=wps-office-uninstall

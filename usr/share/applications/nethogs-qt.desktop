@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Process Network Monitor Tool
+Name[bo_CN]=བྱ་རིམ་དྲ་རྒྱའི་ལྟ་སྐུལ་ལག་ཆ།
+Name[zh_CN]=进程网络监控工具
+Exec=/usr/bin/nethogs-qt
+Comment=Monitor system process network
+Comment[bo_CN]=མིག་སྔའི་རྒྱུད་ཁོངས་ཀྱི་བྱ་རིམ་དྲ་རྒྱའི་གནས་ཚུལ་ལ་བཤེར་ཞིབ་བྱེད་པ།
+Comment[zh_CN]=监控当前系统的进程网络情况
+Terminal=false
+Type=Application
+Icon=nethogs-qt
+StartupNotify=true
+Categories=GTK;Utility;
+Keywords= net;monitor;process;current;resources;
+OnlyShowIn=MATE;
+X-MATE-Bugzilla-Bugzilla=MATE
+X-MATE-Bugzilla-Component=general

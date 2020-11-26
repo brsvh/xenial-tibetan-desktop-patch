@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Biometric Manager
+Name[bo_CN]=སྐྱ་དངོས་ཁྱད་ཆོས་དོ་དམ་ལག་ཆ།
+Name[zh_CN]=生物特征管理工具
+Comment=Biometric Manager
+Comment[bo_CN]=སྐྱེ་དངོས་ཁྱད་ཆོས་དོ་དམ།
+Comment[zh_CN]=生物特征管理
+Icon=biometric-manager
+Exec=/usr/bin/biometric-manager
+Keywords=Settings
+Terminal=false
+Type=Application
+Categories=Qt;System;Utility;Core;

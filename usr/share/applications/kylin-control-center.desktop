@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=Control Center
+Name[bo_CN]=ཚོད་འཛིན་དངོས་གཞོང་།
+Name[zh_CN]=控制面板
+Name[zh_HK]=控制面板
+Name[zh_TW]=控制面板
+Comment=麒麟控制面板
+Comment[bo_CN]=ཚོད་འཛིན་དངོས་གཞོང་།
+Icon=applications-system
+Exec=kylin-control-center
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=true
+Categories=GTK;Settings;
+Keywords=MATE;control;center;configuration;tool;destop;preferences;

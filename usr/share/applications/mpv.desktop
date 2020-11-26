@@ -1,0 +1,33 @@
+[Desktop Entry]
+Type=Application
+Name=mpv Media Player
+Name[bo_CN]=mpv གཏོང་ཆས།
+Name[ca]=Reproductor multimèdia mpv
+Name[cs]=mpv přehrávač
+Name[pl]=Odtwarzacz mpv
+Name[ru]=Проигрыватель mpv
+Name[zh-CN]=mpv 媒体播放器
+Name[zh-TW]=mpv 媒體播放器
+GenericName=Multimedia player
+GenericName[bo_CN]=mpv གཏོང་ཆས།
+GenericName[cs]=Multimediální přehrávač
+GenericName[zh-CN]=多媒体播放器
+GenericName[zh-TW]=多媒體播放器
+Comment=Play movies and songs
+Comment[bo_CN]=གློག་བརྙན་དང་གླུ་དབྱངས་གཏོང་བ།
+Comment[ca]=Reproduïu vídeos i cançons
+Comment[cs]=Přehrává filmy a hudbu
+Comment[de]=Filme und Musik abspielen
+Comment[es]=Reproduzca vídeos y canciones
+Comment[fr]=Lecteur multimédia
+Comment[it]=Lettore multimediale
+Comment[pl]=Odtwarzaj filmy i muzykę
+Comment[ru]=Воспроизвести фильмы и музыку
+Comment[zh-CN]=播放电影和歌曲
+Comment[zh-TW]=播放電影和歌曲
+Icon=mpv
+TryExec=/usr/bin/mpv
+Exec=/usr/bin/mpv --profile=pseudo-gui -- %U
+Terminal=false
+OnlyShowIn=GNOME;Unity;KDE;
+X-KDE-Protocols=ftp,http,https,mms,rtmp,rtsp,sftp,smb

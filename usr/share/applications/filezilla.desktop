@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=FileZilla
+Name[bo_CN]=FTPསྤྱོད་སྣེ།
+Name[zh_CN]=FTP 客户端
+GenericName=FTP client
+GenericName[de]=FTP-Client
+GenericName[fr]=Client FTP
+Comment=Download and upload files via FTP, FTPS and SFTP
+Comment[bo_CN]=FTP, FTPS, SFTPབརྒྱུད་ནས་ཡིག་ཆ་ཕབ་ལེན་དང་སྐྱེལ་འཇོག་བྱེད་པ།
+Comment[zh_CN]=通过FTP, FTPS, SFTP来下载和上传文件
+Comment[de]=Dateien über FTP, FTPS und SFTP übertragen
+Comment[fr]=Transférer des fichiers via FTP, FTPS et SFTP
+Exec=filezilla
+Terminal=false
+Icon=filezilla
+Type=Application
+Categories=Network;FileTransfer;
+Version=1.0

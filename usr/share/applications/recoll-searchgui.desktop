@@ -1,0 +1,15 @@
+[Desktop Entry]
+Categories=Utility;Filesystem;Database;
+Comment=Find documents by specifying search terms
+Comment=ངེས་གཏད་ཀྱི་མིང་བརྡ་འཚོལ་བཤེར་བྱས་པ་བརྒྱུད་ནས་ཡིག་ཚགས་བཙལ་བ།
+Comment[zh_CN]=通过指定搜索词查找文档
+Exec=recoll
+GenericName=Local Text Search
+GenericName[zh_CN]=本地文字搜索
+Icon=/usr/share/pixmaps/recoll.png
+Name[bo_CN]=ཡིག་གཞིའི་ནང་དོན་བཤེར་འཚོལ་ལག་ཆ།
+Name[zh_CN]=文本内容搜索工具
+Name=Recoll
+Terminal=false
+Type=Application
+Keywords=Search;Full Text;

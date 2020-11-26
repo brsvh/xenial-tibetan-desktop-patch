@@ -1,0 +1,21 @@
+[Desktop Entry]
+Comment=Wps Office Config Tool
+Comment[bo_CN]=Wps Officeསྡེབ་སྒྲིག་ལག་ཆ།
+Comment[zh_CN]=Wps Office配置工具
+Exec=/usr/bin/misc %f
+GenericName=Config Tool
+GenericName[zh_CN]=配置工具
+Name=Config Tool
+Name[bo_CN]=སྡེབ་སྒྲིག་ལག་ཆ།
+Name[zh_CN]=配置工具
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=WordProcessor;Qt;
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Icon=wps-office-misc-2019
+InitialPreference=3
+StartupWMClass=misc

@@ -1,0 +1,15 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Pantum Device Manager
+Name[bo_CN]=པིན་ཐུར་སྒྲིག་ཆས་དོ་དམ།
+Name[zh_CN]=奔图设备管理
+GenericName=Pantum Device Manager
+GenericName[bo_CN]=པིན་ཐུར་སྒྲིག་ཆས་དོ་དམ།
+GenericName[zh_CN]=奔图设备管理
+Comment=pantum Device Manager Moniter Printer status
+Comment[bo_CN]=པིན་ཐུར་སྒྲིག་ཆས་ཀྱིས་ཡིག་དཔར་གྱི་རྣམ་པ་ལ་དོ་དམ་བཤེར་ཞིབ་དང་བཤར་འབེབས་བྱེད་པ།
+Comment[zh_CN]=奔图设备管理监控打印机状态，进行扫描
+Exec=/usr/bin/Device_Manger
+Categories=Application;pantum;
+Icon=pantum-printer

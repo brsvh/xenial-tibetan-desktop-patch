@@ -1,0 +1,15 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=QScan
+Name[bo_CN]=པིན་ཐུར་བཤེར་འབེབས་ཉེར་སྤྱོད་མཉེན་ཆས།
+Name[zh_CN]=奔图扫描应用软件
+GenericName=QScan
+GenericName[zh_CN]=奔图扫描应用软件
+Comment=Pantum QScan Application for scanner
+Comment[bo_CN]=པིན་ཐུར་བཤར་འབེམས་ཉེར་སྤྱོད་མཉེན་ཆས།
+Comment[zh_CN]=奔图扫描应用软件
+Exec=/usr/bin/QScan
+Categories=Application;pantum;
+Terminal=false
+Icon=QScan
