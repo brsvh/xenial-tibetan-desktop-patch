@@ -1,0 +1,14 @@
+Source: kylin-language-pack-bo-cn-desktop
+Section: translations
+Priority: optional
+Maintainer: Burgess Chang <open@brsvh.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.7
+
+Pakcage: kylin-language-pack-bo-cn-desktop
+Architecture: all
+Pre-Depends: dpkg (>= 1.16.1), ${misc:Pre-Depends}
+Depends: ${misc:Depends}
+Description: Translations update of desktop file for language Chinese Tibetan.
+    Chinese Tibetan desktop file patches.
+

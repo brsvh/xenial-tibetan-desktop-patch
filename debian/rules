@@ -1,0 +1,13 @@
+#!/usr/bin/make -f
+
+build:
+
+clean:
+	dh_clean
+
+binary:
+	make install DESTDIR=debian/kylin-language-pack-bo-cn-desktop PREFIX=/usr
+	dh_installchangelogs
+	dh_gencontrol
+	dh_md5sums
+	dh_builddeb
