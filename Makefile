@@ -1,7 +1,7 @@
 DESTDIR ?=
 PREFIX ?=
 
-DESKTOP_FILES = $(shell find . -type f "*.desktop")
+DESKTOP_FILES = $(shell find . -type f -name "*.desktop")
 
 install:
 	install -d $(DESTDIR)$(PREFIX)/share/kylin-applications
