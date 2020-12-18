@@ -1,6 +1,6 @@
 DESTDIR ?=
 PREFIX ?=
-INSPATH := $(DESTDIR)$(PREFIX)/kylin-applications
+INSPATH := $(DESTDIR)$(PREFIX)/share/kylin-applications
 
 DESKTOP_FILES = $(shell find . -type f "*.desktop")
 
